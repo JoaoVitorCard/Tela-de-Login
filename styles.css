@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.login {
+    display: block;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.41px;
+    color: #000000;
+    margin: 128px 277px 12px 16px;
+}
+
+.paragraph-1 {
+    display: block;
+    margin: 0 16px 102px 16px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.41px;
+    color: rgba(0, 0, 0, 0.5)
+}
+
+input {
+    display: block;
+    Width: 343px;
+    Height: 48px;
+    background: #F2F2F7;
+    border: none;
+    border-radius: 6px;
+    margin-left: 16px;
+    box-shadow: 4px 4px 4px #606060;
+}
+
+.password-input {
+    margin-top: 12px;
+    margin-bottom: 17px;
+}
+
+input::placeholder {
+    padding: 20px;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #007AFF;
+}
+
+.forgot-password {
+    display: block;
+    text-align: right;
+    margin-top: 17px;
+    margin-right: 16px;
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    background: rgba(0, 0, 0, 0.94);
+    color: #FFFFFF;
+    Width: 343px;
+    Height: 48px;
+    border-radius: 10px;
+    margin: 0 auto 204px auto;
+}
+
+.paragraph-2 {
+    display: block;
+    color: rgba(0, 0, 0, 0.51);
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
